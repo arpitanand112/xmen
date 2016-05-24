@@ -1,0 +1,11 @@
+{
+  "name": "first_principle_ventures",
+  "version": "1.0.0",
+  "description": "A template of X-men for FIRST PRINCPLE VENTURES",
+  "main": "index.js",
+  "scripts": {
+    "test": "NOTHING"
+  },
+  "author": "Arpit Anand <arpit.engghelp@gmail.com>",
+  "license": "MIT"
+}
